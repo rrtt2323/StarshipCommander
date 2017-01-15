@@ -16,6 +16,6 @@ public class Cube1 : MonoBehaviour
 
     void Start()
     {
-
+        Debug.Log("abc");
     }
 }
